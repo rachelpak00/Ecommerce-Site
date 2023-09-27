@@ -1,0 +1,19 @@
+.info-container{
+    margin: 2% 2%;
+    padding: 5%;
+    background-color: #3d3d3d;
+    text-align: center;
+}
+
+.info-header{
+    font-size: 5em;
+    color: #4cceac;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.confirm-button{
+    background-color: #4cceac;
+    border-radius: 1rem;
+    color: #3d3d3d;
+    padding: 1% 3%;
+}

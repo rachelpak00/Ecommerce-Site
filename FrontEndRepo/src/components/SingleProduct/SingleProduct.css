@@ -1,0 +1,31 @@
+.single-product-header{
+    color: #4cceac;
+    margin-top: 2%;
+    font-size: 4em;
+    text-align: center;
+}
+
+.image-container{
+    margin-top: 2%;
+    text-align: center;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.single-product-price{
+    font-size: 2.5em;
+    margin-left: 5%;
+}
+
+.cart-quantity{
+    margin-left: 5%;
+    font-size: 2em;
+    color: #4cceac;
+}
+
+.add-cart-button{
+    margin-left: 0.5%;
+    background-color: #4cceac;
+    color: #3d3d3d;
+    padding: 0.2% 1%;
+    border-radius: 1rem;
+}
